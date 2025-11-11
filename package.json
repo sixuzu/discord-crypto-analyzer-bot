@@ -1,0 +1,14 @@
+{
+  "name": "exchangebot",
+  "version": "1.0.0",
+  "description": "A cryptocurrency bot that tracks prices, analyzes exchange data, sets custom alerts, and more.",
+  "main": "index.js",
+  "keywords": ["crypto", "cryptocurrency"],
+  "author": "CryptoMAN",
+  "license": "MIT",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "node-binance-api": "0.4.3",
+    "node-schedule": "^1.3.0"
+  }
+}
